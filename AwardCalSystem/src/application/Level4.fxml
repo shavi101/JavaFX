@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="615.0" prefWidth="742.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <GridPane fx:id="lblL4Grid" alignment="CENTER" layoutX="16.0" layoutY="118.0" prefHeight="249.0" prefWidth="752.0">
+         <children>
+            <Label fx:id="lblMod6L4R" text="Module 06" GridPane.rowIndex="6" />
+            <Label fx:id="lblMod1L4R" text="Module 01" GridPane.rowIndex="1" />
+            <Label fx:id="lblMod2L4R" text="Module 02" GridPane.rowIndex="2" />
+            <Label fx:id="lblMod3L4R" text="Module 03" GridPane.rowIndex="3" />
+            <Label fx:id="lblMod4L4R" text="Module 04" GridPane.rowIndex="4" />
+            <Label fx:id="lblMod5L4R" text="Module 05" GridPane.rowIndex="5" />
+            <Label fx:id="lblI1L4" alignment="CENTER" contentDisplay="CENTER" text="ICT 01" GridPane.columnIndex="1" />
+            <Label fx:id="lblI2L4" text="ICT 02" GridPane.columnIndex="2" />
+            <Label fx:id="lblI3L4" text="ICT 03" GridPane.columnIndex="3" />
+            <Label fx:id="lblAvgL4" text="Average" GridPane.columnIndex="4" />
+            <Label fx:id="lblM1I1L4" prefHeight="17.0" prefWidth="96.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label fx:id="lblResL4" text="Result" GridPane.columnIndex="5" />
+            <Label fx:id="lblM1I2L4" prefHeight="17.0" prefWidth="96.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+            <Label fx:id="lblM1I3L4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+            <Label fx:id="lblM1AvgL4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+            <Label fx:id="lblM1ResL4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+            <Label fx:id="lblM2I1L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Label fx:id="lblM2I2L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+            <Label fx:id="lblM2I3L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+            <Label fx:id="lblM2AvgL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+            <Label fx:id="lblM2ResL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+            <Label fx:id="lblM3I1L4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <Label fx:id="lblM3I2L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+            <Label fx:id="lblM3I3L4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+            <Label fx:id="lblM3AvgL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+            <Label fx:id="lblM3ResL4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+            <Label fx:id="lblM4I1L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <Label fx:id="lblM4I2L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+            <Label fx:id="lblM4I3L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+            <Label fx:id="lblM4AvgL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+            <Label fx:id="lblM4ResL4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="5" GridPane.rowIndex="4" />
+            <Label fx:id="lblM5I1L4" prefHeight="17.0" prefWidth="95.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <Label fx:id="lblM5I2L4" prefHeight="17.0" prefWidth="95.0" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+            <Label fx:id="lblM5I3L4" prefHeight="17.0" prefWidth="96.0" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+            <Label fx:id="lblM5AvgL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="4" GridPane.rowIndex="5" />
+            <Label fx:id="lblM5ResL4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="5" GridPane.rowIndex="5" />
+            <Label fx:id="lblM6I1L4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+            <Label fx:id="lblM6I2L4" prefHeight="17.0" prefWidth="97.0" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+            <Label fx:id="lblM6I3L4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+            <Label fx:id="lblM6AvgL4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="4" GridPane.rowIndex="6" />
+            <Label fx:id="lblM6ResL4" prefHeight="17.0" prefWidth="101.0" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+            <Label fx:id="lblM1ConL4" prefHeight="17.0" prefWidth="100.0" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+            <Label fx:id="lblM2ConL4" prefHeight="17.0" prefWidth="100.0" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+            <Label fx:id="lblM3ConL4" prefHeight="17.0" prefWidth="100.0" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+            <Label fx:id="lblM4ConL4" prefHeight="17.0" prefWidth="98.0" GridPane.columnIndex="6" GridPane.rowIndex="4" />
+            <Label fx:id="lblM5ConL4" prefHeight="17.0" prefWidth="100.0" GridPane.columnIndex="6" GridPane.rowIndex="5" />
+            <Label fx:id="lblM6ConL4" prefHeight="17.0" prefWidth="99.0" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+            <Label fx:id="lblCredL4" text="Credits" GridPane.columnIndex="7" />
+            <Label fx:id="lblM1CredL4" prefHeight="17.0" prefWidth="92.0" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+            <Label fx:id="lblM2CredL4" prefHeight="17.0" prefWidth="93.0" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+            <Label fx:id="lblM3CredL4" prefHeight="17.0" prefWidth="95.0" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+            <Label fx:id="lblM4CredL4" prefHeight="17.0" prefWidth="92.0" GridPane.columnIndex="7" GridPane.rowIndex="4" />
+            <Label fx:id="lblM5CredL4" prefHeight="17.0" prefWidth="92.0" GridPane.columnIndex="7" GridPane.rowIndex="5" />
+            <Label fx:id="lblM6CredL4" prefHeight="17.0" prefWidth="92.0" GridPane.columnIndex="7" GridPane.rowIndex="6" />
+            <Label fx:id="lblTotCredL4" prefHeight="17.0" prefWidth="92.0" GridPane.columnIndex="7" GridPane.rowIndex="7" />
+         </children>
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+      </GridPane>
+      <Label fx:id="lblTotL4" layoutX="14.0" layoutY="385.0" text="Total Credits" />
+      <Label fx:id="lblRefL4" layoutX="14.0" layoutY="417.0" text="No. of Reffarals" />
+      <Label fx:id="lblRetL4" layoutX="14.0" layoutY="452.0" text="No. of Retakes" />
+      <Label fx:id="lblFinalL5" layoutX="14.0" layoutY="504.0" prefHeight="48.0" prefWidth="701.0" />
+      <Label fx:id="lblL4R" layoutX="16.0" layoutY="27.0" text="Report-Level 04 ">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblRegL4R" layoutX="16.0" layoutY="79.0" text="Registration ID" />
+      <Label fx:id="lblATotL4" layoutX="139.0" layoutY="385.0" prefHeight="17.0" prefWidth="92.0" />
+      <Label fx:id="lblARefL4" layoutX="139.0" layoutY="417.0" prefHeight="17.0" prefWidth="92.0" />
+      <Label fx:id="lblARetL4" layoutX="139.0" layoutY="452.0" prefHeight="17.0" prefWidth="92.0" />
+      <Label fx:id="lblARegL4" layoutX="116.0" layoutY="79.0" prefHeight="17.0" prefWidth="139.0" />
+   </children>
+</AnchorPane>
